@@ -1,4 +1,5 @@
-<h1 align="center">Hey! I'm Justin.</h1>
+<h1 align="center">Hey! I'm Justin. 👋👋</h1>
+
 <h3 align="center">I dropped out of the University of Pennsylvania my sophomore year to work fulltime as the CTO of Karleki. During my time there, I studied Computer Science and Economics with a minor in Statistics and Consumer Psychology at the Wharton School. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinlongma&label=Profile%20views&color=0e75b6&style=flat" alt="justinlongma" /> </p>

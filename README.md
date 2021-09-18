@@ -8,6 +8,4 @@
 
 Feel free to check out our work on <a href="//karleki.com" target="blank"> karleki.com</a>!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinlongma&show_icons=true&locale=en" alt="justinlongma" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justinlongma&" alt="justinlongma" /></p>
